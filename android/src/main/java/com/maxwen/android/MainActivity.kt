@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            // foo- bar zong
+            // foo- bar zong bang
             MaterialTheme {
                 App()
             }
